@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# UI Design - Product Card Using HTML CSS
 
-You can use the [editor on GitHub](https://github.com/alkarkab/posters/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is source code of Youtube Channel Video Tutorial.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Channel Name: CodeFrog
 
-### Markdown
+Video Title:   Product Card UI Design - HTML CSS Tutorial
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Video Link:   https://www.youtube.com/watch?v=jYAmKNOJ4Ck
 
-```markdown
-Syntax highlighted code block
+Fonts used:   http://www.1001fonts.com/roboto-font.html
 
-# Header 1
-## Header 2
-### Header 3
+Fonts used for icons:   http://fontawesome.io/
 
-- Bulleted
-- List
+Codepen:    http://codepen.io/CodeFrogShow/pen/rWjYrP
 
-1. Numbered
-2. List
+Subscribe our Youtube Channel: https://www.youtube.com/channel/UCg68YtebcGaPeg2ITYd_7LQ
 
-**Bold** and _Italic_ and `Code` text
+Like us on facebook:   https://www.facebook.com/codefrogshow
 
-[Link](url) and ![Image](src)
-```
+Follow us on Twitter:   https://twitter.com/CodeFrogShow
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Follow us on Codepen:    http://codepen.io/CodeFrogShow/
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alkarkab/posters/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#HappyCoding
